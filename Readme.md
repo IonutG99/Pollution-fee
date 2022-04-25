@@ -1,4 +1,4 @@
-# Barcode Generator
+# Pollution Fee
 
 An application that computes the pollution fee using user input.
 
